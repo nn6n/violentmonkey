@@ -2497,10 +2497,10 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
-"@zip.js/zip.js@2.4.4":
-  version "2.4.4"
-  resolved "https://registry.yarnpkg.com/@zip.js/zip.js/-/zip.js-2.4.4.tgz#577237ce8b1844b41b9986dc1ce31cf8b8c577da"
-  integrity sha512-1gtG+uWsU/0GwaH/088QE0NS/9OC9rV1kmurQ8wL1zGtAjqfAaEb+IZGWpd4n6J0whZ139xbTLt858q6cJGiDA==
+"@zip.js/zip.js@2.7.60":
+  version "2.7.60"
+  resolved "https://registry.yarnpkg.com/@zip.js/zip.js/-/zip.js-2.7.60.tgz#0de96b93519cad804c82f96faebceda836cb24c0"
+  integrity sha512-vA3rLyqdxBrVo1FWSsbyoecaqWTV+vgPRf0QKeM7kVDG0r+lHUqd7zQDv1TO9k4BcAoNzNDSNrrel24Mk6addA==
 
 abab@^2.0.6:
   version "2.0.6"
