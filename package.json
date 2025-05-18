@@ -102,7 +102,7 @@
     "@zip.js/zip.js": "2.4.4",
     "codemirror": "^5.65.10",
     "tldts": "^6.0.14",
-    "vue": "^3.4.38",
+    "vue": "^3.5.13",
     "vueleton": "^2.0.2"
   },
   "engines": {
