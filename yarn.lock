@@ -1197,7 +1197,7 @@
   resolved "https://registry.yarnpkg.com/@babel/regjsgen/-/regjsgen-0.8.0.tgz#f0ba69b075e1f05fb2825b7fad991e7adbb18310"
   integrity sha512-x/rqGMdzj+fWZvCOYForTghzbtqPDZ5gPwaoNGHdgDfF2QA/XZbCBp4Moo5scrkAMPhB7z26XM/AaHuIJdgauA==
 
-"@babel/runtime@^7.16.7", "@babel/runtime@^7.19.0", "@babel/runtime@^7.8.4":
+"@babel/runtime@^7.19.0", "@babel/runtime@^7.8.4":
   version "7.19.0"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.19.0.tgz#22b11c037b094d27a8a2504ea4dcff00f50e2259"
   integrity sha512-eR8Lo9hnDS7tqkO7NsV+mKvCmv5boaXFSZ70DnfhcgiEne8hv9oCEd36Klw74EtizEqLsy4YnW8UWwpBVolHZA==
@@ -1210,6 +1210,11 @@
   integrity sha512-T0O+aa+4w0u06iNmapipJXMV4HoUir03hpx3/YqXXhu9xim3w+dVphjFWl1OH8NbZHw5Lbm9k45drDkgq2VNNA==
   dependencies:
     regenerator-runtime "^0.14.0"
+
+"@babel/runtime@^7.24.0":
+  version "7.27.1"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.27.1.tgz#9fce313d12c9a77507f264de74626e87fd0dc541"
+  integrity sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==
 
 "@babel/template@^7.18.10", "@babel/template@^7.3.3":
   version "7.18.10"
@@ -2207,12 +2212,12 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@violentmonkey/shortcut@^1.2.6":
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/@violentmonkey/shortcut/-/shortcut-1.2.6.tgz#75869254597cb3560eadf37886a12b1e963c68b1"
-  integrity sha512-hhmLZFEQUF3tw8ccZvrT2e9CPn0CN8L+2qZVP3n7SmPIYOQD8ai3uM5yYt+Fp9XcuCkQweLaMkoCJRWA8bHpXw==
+"@violentmonkey/shortcut@^1.4.4":
+  version "1.4.4"
+  resolved "https://registry.yarnpkg.com/@violentmonkey/shortcut/-/shortcut-1.4.4.tgz#1244520b19a136151827222b770b11c4034d273e"
+  integrity sha512-rS+qi/WhYQEKpoH/l8c+lBHppVIZDnbQxxSATE6zeKkKv4rbsV7aD9YAkJvSD1Jq6N96UT9grjhmA8huDGC+uA==
   dependencies:
-    "@babel/runtime" "^7.16.7"
+    "@babel/runtime" "^7.24.0"
 
 "@violentmonkey/types@0.2.0":
   version "0.2.0"
