@@ -98,7 +98,7 @@
   "homepage": "https://github.com/violentmonkey/violentmonkey",
   "license": "MIT",
   "dependencies": {
-    "@violentmonkey/shortcut": "^1.2.6",
+    "@violentmonkey/shortcut": "^1.4.4",
     "@zip.js/zip.js": "2.4.4",
     "codemirror": "^5.65.10",
     "tldts": "^6.0.14",
